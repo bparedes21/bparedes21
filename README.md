@@ -1,10 +1,6 @@
-### Hi there 👋
+### Hola 👋
 :smile: :smile: :smile:
-
-
-https://user-images.githubusercontent.com/68014465/207140862-05ea8c1b-0a51-4487-8191-188b972335cd.mp4
-
-
+![BriAN ALEXIS PAREDES ANDRADE](https://user-images.githubusercontent.com/68014465/207141301-b1347d72-525f-4140-92d4-22f7eb04a6e6.gif)
 :+1:
 <!--
 **bparedes21/bparedes21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
