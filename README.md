@@ -13,7 +13,11 @@
 </p>
 </div>
 
-
+<p align="center">
+ <a target="_blank">
+  <img align="center" height="250" width="250" alt="GIF" src="Avatar-Maker.png">
+</a>
+</p>
 
 
 <p align="center">
