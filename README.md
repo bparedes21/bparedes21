@@ -4,7 +4,9 @@
   <h3 align="center">Hola! <a target="_blank">
     <img src="Hi.gif" width="40px" />
   </a></h3>
- 
+ <a target="_blank">
+  <img align="right" height="250" width="250" alt="GIF" src="Avatar-Maker.png">
+</a>
 </p>
 
 <p align="left">
@@ -12,9 +14,7 @@
 </p>
 <p>
 </p>
-<a target="_blank">
-  <img align="right" height="400" width="400" alt="GIF" src="BriAN ALEXIS PAREDES ANDRADE.gif">
-</a>
+
  <a href="https://github.com/bparedes21/Proyecto-Individual-1"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=bparedes21&repo=Proyecto-Individual-1&show_icons=true&theme=radical" alt="github-readme-streak-stats"></a>
 <!--
 **bparedes21/bparedes21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
