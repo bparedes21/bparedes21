@@ -15,7 +15,7 @@
 <div>
 <p align="right">
  <a target="_blank">
-  <img align="right" height="150" width="250" alt="GIF" src="e426702edf874b181aced1e2fa5c6cde.gif">
+  <img align="right" height="100" width="200" alt="GIF" src="e426702edf874b181aced1e2fa5c6cde.gif">
 </a>
 </p>
 
