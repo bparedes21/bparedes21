@@ -12,7 +12,7 @@
  </h1>
 </p>
 </div>
-
+<div>
 <p align="right">
  <a target="_blank">
   <img align="right" height="150" width="250" alt="GIF" src="e426702edf874b181aced1e2fa5c6cde.gif">
@@ -26,7 +26,7 @@
 </p>
 <details open> 
   <summary><h2>📘 Mis proyectos: Data engineer</h2></summary>
-
+</div>
 
 <div>
   <a href="https://github.com/bparedes21/PI01_DT_ENGINEERING"><img width="278" src="https://user-images.githubusercontent.com/68014465/217332756-fe09a5d0-9f29-47fe-a1d7-a368e17e4ac4.svg" alt="DT_ENGINEERIN"></a>
