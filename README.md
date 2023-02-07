@@ -29,7 +29,8 @@
 
 
 <div>
-  <a href="https://github.com/bparedes21/Proyecto-Individual-1"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=bparedes21&repo=Proyecto-Individual-1&show_icons=true&theme=radical" alt="github-readme-streak-stats"></a>
+  <a href="https://github.com/bparedes21/PI01_DT_ENGINEERING"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=bparedes21&repo=PI01_DT_ENGINEERING-1&show_icons=true&theme=radical" alt="github-readme-streak-stats"></a>
+ <a href="https://github.com/bparedes21/Proyecto-Individual-1"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=bparedes21&repo=Proyecto-Individual-1&show_icons=true&theme=radical" alt="github-readme-streak-stats"></a>
 </div>
  
 <!--
