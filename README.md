@@ -30,13 +30,19 @@
 
 <div>
   <a href="https://github.com/bparedes21/PI01_DT_ENGINEERING"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=bparedes21&repo=PI01_DT_ENGINEERING&show_icons=true&theme=transparent" alt="PI01_DT_ENGINEERING"></a>
+
  <a href="https://github.com/bparedes21/Proyecto-Individual-1"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=bparedes21&repo=Proyecto-Individual-1&show_icons=true&theme=transparent" alt="Individual-1"></a>
+  
 </div>
 </p>
-<p>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api?username=bparedes21&repo=PI01_DT_ENGINEERING)](https://github.com/bparedes21/PI01_DT_ENGINEERING)
+[![Readme Card](https://github-readme-stats.vercel.app/api?username=bparedes21&repo=Proyecto-Individual-1)](https://github.com/bparedes21/Proyecto-Individual-1)
  <h1></h1>
+ <p>
 **LANGUAGES AND TOOLS:**  
 </p>
+
 
 <p align="center">
 <code><img height="40" width="40" src="python.svg"></code>
