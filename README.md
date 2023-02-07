@@ -34,10 +34,15 @@
 </div>
 </p>
 <p>
+ <h1></h1>
 **LANGUAGES AND TOOLS:**  
 </p>
 <p>
-<code><img height="40" width="40" src="python.svg">
+<code><img height="40" width="40" src="python.svg"></code>
+<code><img height="40" width="40" src="visualstudiocode.svg"></code>
+<code><img height="40" width="40" src="mysql.svg"></code>
+<code><img height="40" width="40" src="slack.svg"></code>
+<h1></h1>
 
 <!--
 https://user-images.githubusercontent.com/68014465/217332756-fe09a5d0-9f29-47fe-a1d7-a368e17e4ac4.svg
