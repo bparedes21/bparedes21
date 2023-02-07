@@ -29,8 +29,8 @@
 </div>
 
 <div>
-  <a href="https://github.com/bparedes21/PI01_DT_ENGINEERING"><img width="278" src="https://user-images.githubusercontent.com/68014465/217332756-fe09a5d0-9f29-47fe-a1d7-a368e17e4ac4.svg" alt="DT_ENGINEERIN"></a>
- <a href="https://github.com/bparedes21/Proyecto-Individual-1"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=bparedes21&repo=Proyecto-Individual-1&show_icons=true&theme=radical" alt="Individual-1"></a>
+  <a href="https://github.com/bparedes21/Proyecto-Individual-1"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=bparedes21&repo=Proyecto-Individual-1&show_icons=true&theme=transparent" alt="Individual-1"></a>
+ <a href="https://github.com/bparedes21/Proyecto-Individual-1"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=bparedes21&repo=Proyecto-Individual-1&show_icons=true&theme=transparent" alt="Individual-1"></a>
 </div>
 </p>
 <p>
@@ -49,7 +49,7 @@
 <code><img height="40" width="40" src="scikitlearn.svg"></code>
 <code><img height="40" width="40" src="numpy.svg"></code>
 <code><img height="40" width="40" src="heroku.svg"></code>
-<code><img height="40" width="40" src="foodpanda.svg"></code>
+<code><img height="40" width="40" src="pandas.svg"></code>
 <code><img height="40" width="40" src="databricks.svg"></code>
 </p>
 <h1></h1>
