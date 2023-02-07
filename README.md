@@ -25,14 +25,15 @@
 <p>
 </p>
 <details open> 
-  <summary><h2>📘 My Top Open Source Projects</h2></summary>
+  <summary><h2>📘 Mis proyectos: Data engineer</h2></summary>
 
 
 <div>
-  <a href="https://github.com/bparedes21/PI01_DT_ENGINEERING"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=bparedes21&repo=PI01_DT_ENGINEERING&show_icons=true&theme=radical" alt="github-readme-streak-stats"></a>
- <a href="https://github.com/bparedes21/Proyecto-Individual-1"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=bparedes21&repo=Proyecto-Individual-1&show_icons=true&theme=radical" alt="https://github-readme-streak-stats"></a>
+  <a href="https://github.com/bparedes21/PI01_DT_ENGINEERING"><img width="278" src="https://user-images.githubusercontent.com/68014465/217332756-fe09a5d0-9f29-47fe-a1d7-a368e17e4ac4.svg" alt="DT_ENGINEERIN"></a>
+ <a href="https://github.com/bparedes21/Proyecto-Individual-1"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=bparedes21&repo=Proyecto-Individual-1&show_icons=true&theme=radical" alt="Individual-1"></a>
 </div>
- 
+https://user-images.githubusercontent.com/68014465/217332756-fe09a5d0-9f29-47fe-a1d7-a368e17e4ac4.svg
+
 <!--
 **bparedes21/bparedes21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
