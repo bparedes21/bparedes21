@@ -37,17 +37,21 @@
  <h1></h1>
 **LANGUAGES AND TOOLS:**  
 </p>
-<p>
+
+<p align="center">
 <code><img height="40" width="40" src="python.svg"></code>
 <code><img height="40" width="40" src="visualstudiocode.svg"></code>
 <code><img height="40" width="40" src="mysql.svg"></code>
 <code><img height="40" width="40" src="slack.svg"></code>
- 
 <code><img height="40" width="40" src="microsoftsqlserver.svg"></code>
-<code><img height="40" width="40" src="visualstudiocode.svg"></code>
+<code><img height="40" width="40" src="streamlit.svg"></code>
 <code><img height="40" width="40" src="sqlite.svg"></code>
-<code><img height="40" width="40" src="slack.svg"></code>
- 
+<code><img height="40" width="40" src="scikitlearn.svg"></code>
+<code><img height="40" width="40" src="numpy.svg"></code>
+<code><img height="40" width="40" src="heroku.svg"></code>
+<code><img height="40" width="40" src="foodpanda.svg"></code>
+<code><img height="40" width="40" src="databricks.svg"></code>
+</p>
 <h1></h1>
 
 <!--
