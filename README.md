@@ -42,6 +42,12 @@
 <code><img height="40" width="40" src="visualstudiocode.svg"></code>
 <code><img height="40" width="40" src="mysql.svg"></code>
 <code><img height="40" width="40" src="slack.svg"></code>
+ 
+<code><img height="40" width="40" src="microsoftsqlserver.svg"></code>
+<code><img height="40" width="40" src="visualstudiocode.svg"></code>
+<code><img height="40" width="40" src="sqlite.svg"></code>
+<code><img height="40" width="40" src="slack.svg"></code>
+ 
 <h1></h1>
 
 <!--
