@@ -36,8 +36,8 @@
 </div>
 </p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api?username=bparedes21&repo=PI01_DT_ENGINEERING)](https://github.com/bparedes21/PI01_DT_ENGINEERING)
-[![Readme Card](https://github-readme-stats.vercel.app/api?username=bparedes21&repo=Proyecto-Individual-1)](https://github.com/bparedes21/Proyecto-Individual-1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=bparedes21&&repo=PI01_DT_ENGINEERING)])(https://github.com/bparedes21/PI01_DT_ENGINEERING)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=bparedes21&langs_count=8)]
  <h1></h1>
  <p>
 **LANGUAGES AND TOOLS:**  
@@ -77,5 +77,7 @@ Here are some ideas to get you started:
 - ⚡
 
 https://user-images.githubusercontent.com/68014465/217332756-fe09a5d0-9f29-47fe-a1d7-a368e17e4ac4.svg
+https://github.com/anuraghazra/github-readme-stats
+
 -->
 
