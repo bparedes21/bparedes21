@@ -32,9 +32,16 @@
   <a href="https://github.com/bparedes21/PI01_DT_ENGINEERING"><img width="278" src="https://user-images.githubusercontent.com/68014465/217332756-fe09a5d0-9f29-47fe-a1d7-a368e17e4ac4.svg" alt="DT_ENGINEERIN"></a>
  <a href="https://github.com/bparedes21/Proyecto-Individual-1"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=bparedes21&repo=Proyecto-Individual-1&show_icons=true&theme=radical" alt="Individual-1"></a>
 </div>
-https://user-images.githubusercontent.com/68014465/217332756-fe09a5d0-9f29-47fe-a1d7-a368e17e4ac4.svg
+</p>
+<p>
+**LANGUAGES AND TOOLS:**  
+</p>
+<p>
+<code><img height="40" width="40" src="python.svg">
 
 <!--
+https://user-images.githubusercontent.com/68014465/217332756-fe09a5d0-9f29-47fe-a1d7-a368e17e4ac4.svg
+
 **bparedes21/bparedes21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -47,7 +54,7 @@ Here are some ideas to get you started:
 - 📫 
 - 😄 
 - ⚡
--->
-https://github.com/DenverCoder1/DenverCoder1/edit/main/README.md
 
-https://github.com/PulkitSinghDev/PulkitSinghDev/edit/main/README.md
+https://user-images.githubusercontent.com/68014465/217332756-fe09a5d0-9f29-47fe-a1d7-a368e17e4ac4.svg
+-->
+
