@@ -26,24 +26,31 @@
 </p>
 <details open> 
   <summary><h2>📘 Mis proyectos: Data engineer</h2></summary>
-</div>
 
-<div>
-  <a href="https://github.com/bparedes21/PI01_DT_ENGINEERING"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=bparedes21&repo=PI01_DT_ENGINEERING&show_icons=true&theme=transparent" alt="PI01_DT_ENGINEERING"></a>
+ <p align="left"> 
+  <div>
 
- <a href="https://github.com/bparedes21/Proyecto-Individual-1"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=bparedes21&repo=Proyecto-Individual-1&show_icons=true&theme=transparent" alt="Individual-1"></a>
-  
-</div>
+   <a href="https://github.com/bparedes21/PI01_DT_ENGINEERING"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=bparedes21&repo=PI01_DT_ENGINEERING&show_icons=true&theme=transparent" alt="PI01_DT_ENGINEERING"></a>
+
+  <a href="https://github.com/bparedes21/Proyecto-Individual-1"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=bparedes21&repo=Proyecto-Individual-1&show_icons=true&theme=transparent" alt="Individual-1"></a>
+
+ </div>
 </p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=bparedes21&&repo=PI01_DT_ENGINEERING)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=bparedes21&langs_count=8)]
+<div>
+</details open> 
+<details open> 
+  <summary><h2>📘Stats Card</h2></summary>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bparedes21&show_icons=true&theme=transparent)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=bparedes21&langs_count=8)
+
+</div>
  <h1></h1>
  <p>
 **LANGUAGES AND TOOLS:**  
 </p>
-
-
 <p align="center">
 <code><img height="40" width="40" src="python.svg"></code>
 <code><img height="40" width="40" src="visualstudiocode.svg"></code>
