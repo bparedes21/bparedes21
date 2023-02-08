@@ -69,7 +69,7 @@
 </div>
  </details open>
  
- <details open> 
+
  <h1></h1>
  <p>
 **⌨️🖱️LANGUAGES AND 🔧TOOLS:**  
@@ -89,7 +89,7 @@
 <code><img height="40" width="40" src="databricks.svg"></code>
 </p>
 <h1></h1>
- </details open>
+
 <!--
 
 
