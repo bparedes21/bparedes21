@@ -24,12 +24,10 @@
 </p>
 <p>
 </p>
+ 
 <h1></h1>
- 
 <details open> 
-  <summary><h2>📘 Mis proyectos: Data engineer</h2></summary>
-
- 
+  <summary><h2>👔Mis proyectos: Data engineer</h2></summary>
   <div>
   <p align="left"> 
    <a href="https://github.com/bparedes21/PI01_DT_ENGINEERING"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=bparedes21&repo=PI01_DT_ENGINEERING&show_icons=true&theme=transparent" alt="PI01_DT_ENGINEERING"></a>
@@ -37,7 +35,26 @@
  </p>
  </div>
 
-
+ <h1></h1>
+<details open> 
+  <summary><h2>📊Mis proyectos: Data analyst</h2></summary>
+  <div>
+  <p align="left"> 
+   <a href="https://github.com/bparedes21/pi-streamlit"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=bparedes21&repo=pi-streamlit&show_icons=true&theme=transparent" alt="pi-streamlit"></a>
+  <a href="https://github.com/bparedes21/git-pi03"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=bparedes21&repo=git-pi03&show_icons=true&theme=transparent" alt="git-pi03"></a>
+ </p>
+ </div>
+ 
+  <h1></h1>
+<details open> 
+  <summary><h2>📅📚Mis proyectos: Predicción-Machine Learning</h2></summary>
+  <div>
+  <p align="left"> 
+   <a href="https://github.com/bparedes21/Datathon-pi"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=bparedes21&repo=Datathon-pi&show_icons=true&theme=transparent" alt="Datathon-pi"></a>
+  <a href="https://github.com/bparedes21/pi-02-dt"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=bparedes21&repo=pi-02-dt&show_icons=true&theme=transparent" alt="pi-02-dt"></a>
+ </p>
+ </div>
+ 
 <div>
 </details open> 
 <h1></h1>
@@ -48,6 +65,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bparedes21&show_icons=true&theme=transparent)]
 
 </div>
+ 
  <h1></h1>
  <p>
 **⌨️🖱️LANGUAGES AND 🔧TOOLS:**  
