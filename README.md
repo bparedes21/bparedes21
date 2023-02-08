@@ -20,7 +20,7 @@
 </p>
 
 <p align="left">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&center=true&multiline=true&width=600&height=100&lines=Me+desempe%C3%B1o+como:+;Data+analyst;Data+engineer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&pause=0&center=true&multiline=true&width=600&height=100&lines=Me+desempe%C3%B1o+como:+;Data+analyst;Data+engineer" alt="Typing SVG" /></a>
 </p>
 <p>
 </p>
