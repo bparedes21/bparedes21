@@ -20,7 +20,7 @@
 </p>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/brian-alexis-paredes-/"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&duration=2000&pause=0&center=true&multiline=true&width=600&height=100&lines=Me+desempe%C3%B1o+como:+;Data+analyst;Data+engineer" alt="Typing SVG" /></a>
+  <a href="https://www.linkedin.com/in/brian-alexis-paredes-/"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&duration=2000&pause=0&center=true&multiline=true&width=600&height=100&lines=Me+desempe%C3%B1o+como:+;Data+analyst;Data+engineer" alt="linkedin" /></a>
 </p>
 <p>
 </p>
