@@ -34,6 +34,7 @@
   <a href="https://github.com/bparedes21/Proyecto-Individual-1"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=bparedes21&repo=Proyecto-Individual-1&show_icons=true&theme=transparent" alt="Individual-1"></a>
  </p>
  </div>
+</details open> 
 
  <h1></h1>
 <details open> 
@@ -44,6 +45,7 @@
   <a href="https://github.com/bparedes21/git-pi03"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=bparedes21&repo=git-pi03&show_icons=true&theme=transparent" alt="git-pi03"></a>
  </p>
  </div>
+ </details open>
  
   <h1></h1>
 <details open> 
@@ -54,9 +56,9 @@
   <a href="https://github.com/bparedes21/pi-02-dt"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=bparedes21&repo=pi-02-dt&show_icons=true&theme=transparent" alt="pi-02-dt"></a>
  </p>
  </div>
+ </details open>
  
 <div>
-</details open> 
 <h1></h1>
 <details open> 
   <summary><h2>📉Stats Card</h2></summary>
@@ -65,7 +67,9 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bparedes21&show_icons=true&theme=transparent)]
 
 </div>
+ </details open>
  
+ <details open> 
  <h1></h1>
  <p>
 **⌨️🖱️LANGUAGES AND 🔧TOOLS:**  
@@ -85,7 +89,7 @@
 <code><img height="40" width="40" src="databricks.svg"></code>
 </p>
 <h1></h1>
-
+ </details open>
 <!--
 
 
