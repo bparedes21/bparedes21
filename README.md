@@ -40,7 +40,7 @@
 <div>
 </details open> 
 <details open> 
-  <summary><h2>📘Stats Card</h2></summary>
+  <summary><h2>📉Stats Card</h2></summary>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bparedes21&show_icons=true&theme=transparent)
 
@@ -49,7 +49,7 @@
 </div>
  <h1></h1>
  <p>
-**LANGUAGES AND TOOLS:**  
+**⌨️🖱️LANGUAGES AND 🔧TOOLS:**  
 </p>
 <p align="center">
 <code><img height="40" width="40" src="python.svg"></code>
