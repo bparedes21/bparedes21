@@ -58,6 +58,17 @@
  </div>
  </details open>
  
+   <h1></h1>
+<details open> 
+  <summary><h2>30 retos de OpenBootcamp</h2></summary>
+  <div>
+  <p align="left"> 
+   <a href=" https://github.com/bparedes21/Curso-de-30-Retos-"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=bparedes21&repo=Curso-de-30-Retos-&show_icons=true&theme=transparent" alt="Curso-de-30-Retos-"></a>
+ </p>
+ </div>
+ </details open>
+
+ 
 <div>
 <h1></h1>
 <details open> 
