@@ -75,7 +75,7 @@
 <details open> 
   <summary><h2>📉Stats Card</h2></summary>
 
-<p align="center"> 
+<p align="left"> 
    <a href=""><img width="278" src="https://github-readme-stats-6jdb6wcl7-gestionorganizacion17-gmailcom.vercel.app/api/top-langs?username=bparedes21&langs_count=8" alt=""></a>
   <a href=""><img width="278" src="https://github-readme-stats-6jdb6wcl7-gestionorganizacion17-gmailcom.vercel.app/api?username=bparedes21&show_icons=true&theme=transparent" alt=""></a>
  </p>
@@ -88,7 +88,7 @@
  <p>
 **⌨️🖱️LANGUAGES AND 🔧TOOLS:**  
 </p>
-<p align="center">
+<p align="left">
 <code><img height="40" width="40" src="python.svg"></code>
 <code><img height="40" width="40" src="visualstudiocode.svg"></code>
 <code><img height="40" width="40" src="mysql.svg"></code>
