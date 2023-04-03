@@ -74,12 +74,10 @@
 <h1></h1>
 <details open> 
   <summary><h2>📉Stats Card</h2></summary>
-[![Top Langs] (https://github-readme-stats-6jdb6wcl7-gestionorganizacion17-gmailcom.vercel.app/api/top-langs?username=bparedes21&langs_count=8)]
- 
-[![Anurag's GitHub stats] (https://github-readme-stats-6jdb6wcl7-gestionorganizacion17-gmailcom.vercel.app/api?username=bparedes21&show_icons=true&theme=transparent)]
+
 <p align="left"> 
-   <a href=""><img width="278" src="https://github-readme-stats-6jdb6wcl7-gestionorganizacion17-gmailcom.vercel.app/api/top-langs?username=bparedes21&langs_count=8" alt="pi-streamlit"></a>
-  <a href="https://github.com/bparedes21/git-pi03"><img width="278" src="https://github-readme-stats-6jdb6wcl7-gestionorganizacion17-gmailcom.vercel.app/api/pin/?username=bparedes21&repo=git-pi03&show_icons=true&theme=transparent" alt="Data analyst"></a>
+   <a href=""><img width="278" src="https://github-readme-stats-6jdb6wcl7-gestionorganizacion17-gmailcom.vercel.app/api/top-langs?username=bparedes21&langs_count=8" alt=""></a>
+  <a href=""><img width="278" src="https://github-readme-stats-6jdb6wcl7-gestionorganizacion17-gmailcom.vercel.app/api?username=bparedes21&show_icons=true&theme=transparent" alt=""></a>
  </p>
  
 </div>
