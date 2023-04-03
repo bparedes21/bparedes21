@@ -32,7 +32,7 @@
   <p align="left"> 
 
    <a href="https://github.com/bparedes21/PI01_DT_ENGINEERING"><img width="278" src= "https://github-readme-stats-6jdb6wcl7-gestionorganizacion17-gmailcom.vercel.app/api/pin/?username=bparedes21&repo=PI01_DT_ENGINEERING&show_icons=true&theme=transparent" alt="PI01_DT_ENGINEERING"></a>
-  <a href="https://github.com/bparedes21/Proyecto-Individual-1"><img width="278" src=  "https://github-readme-stats-6jdb6wcl7-gestionorganizacion17-gmailcom.vercel.app/api/pin/?username=bparedes21&repo=Proyecto-Individual-1&show_icons=true&theme=transparent" alt="Individual-1"></a>
+  <a href="https://github.com/bparedes21/CrearApi"><img width="278" src=  "https://github-readme-stats-6jdb6wcl7-gestionorganizacion17-gmailcom.vercel.app/api/pin/?username=bparedes21&repo=CrearApi&show_icons=true&theme=transparent" alt=""></a>
  </p>
  </div>
 </details open> 
