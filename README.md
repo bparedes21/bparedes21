@@ -43,7 +43,7 @@
   <div>
   <p align="left"> 
    <a href="https://github.com/bparedes21/pi-streamlit"><img width="278" src="https://github-readme-stats-6jdb6wcl7-gestionorganizacion17-gmailcom.vercel.app/api/pin/?username=bparedes21&repo=pi-streamlit&show_icons=true&theme=transparent" alt="pi-streamlit"></a>
-  <a href="https://github.com/bparedes21/git-pi03"><img width="278" src="https://github-readme-stats-6jdb6wcl7-gestionorganizacion17-gmailcom.vercel.app/api/pin/?username=bparedes21&repo=git-pi03&show_icons=true&theme=transparent" alt=""></a>
+  <a href="https://github.com/bparedes21/git-pi03"><img width="278" src="https://github-readme-stats-6jdb6wcl7-gestionorganizacion17-gmailcom.vercel.app/api/pin/?username=bparedes21&repo=git-pi03&show_icons=true&theme=transparent" alt="Data analyst"></a>
  </p>
  </div>
  </details open>
