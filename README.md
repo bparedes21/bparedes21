@@ -74,8 +74,7 @@
 <h1></h1>
 <details open> 
   <summary><h2>📉Stats Card</h2></summary>
-
-[![Top Langs] (https://github-readme-stats-6jdb6wcl7-gestionorganizacion17-gmailcom.vercel.app/api/top-langs?username=bparedes21&langs_count=8)]
+![Top Langs] (https://github-readme-stats-6jdb6wcl7-gestionorganizacion17-gmailcom.vercel.app/api/top-langs?username=bparedes21&langs_count=8)
 [![Anurag's GitHub stats] (https://github-readme-stats-6jdb6wcl7-gestionorganizacion17-gmailcom.vercel.app/api?username=bparedes21&show_icons=true&theme=transparent)]
 
 </div>
