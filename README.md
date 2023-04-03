@@ -31,8 +31,8 @@
   <div>
   <p align="left"> 
 
-   <a href="https://github.com/bparedes21/PI01_DT_ENGINEERING"><img width="278" src= "https://github-readme-stats-bmxmv1j7n-gestionorganizacion17-gmailcom.vercel.app/api/pin/?username=bparedes21&repo=PI01_DT_ENGINEERING&show_icons=true&theme=transparent" alt="PI01_DT_ENGINEERING"></a>
-  <a href="https://github.com/bparedes21/Proyecto-Individual-1"><img width="278" src=   "https://github-readme-stats-bmxmv1j7n-gestionorganizacion17-gmailcom.vercel.app/api/pin/?username=bparedes21&repo=Proyecto-Individual-1&show_icons=true&theme=transparent" alt="Individual-1"></a>
+   <a href="https://github.com/bparedes21/PI01_DT_ENGINEERING"><img width="278" src= "https://github-readme-stats-6jdb6wcl7-gestionorganizacion17-gmailcom.vercel.app/api/pin/?username=bparedes21&repo=PI01_DT_ENGINEERING&show_icons=true&theme=transparent" alt="PI01_DT_ENGINEERING"></a>
+  <a href="https://github.com/bparedes21/Proyecto-Individual-1"><img width="278" src=  "https://github-readme-stats-6jdb6wcl7-gestionorganizacion17-gmailcom.vercel.app/api/pin/?username=bparedes21&repo=Proyecto-Individual-1&show_icons=true&theme=transparent" alt="Individual-1"></a>
  </p>
  </div>
 </details open> 
@@ -42,8 +42,8 @@
   <summary><h2>📊Mis proyectos: Data analyst</h2></summary>
   <div>
   <p align="left"> 
-   <a href="https://github.com/bparedes21/pi-streamlit"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=bparedes21&repo=pi-streamlit&show_icons=true&theme=transparent" alt="pi-streamlit"></a>
-  <a href="https://github.com/bparedes21/git-pi03"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=bparedes21&repo=git-pi03&show_icons=true&theme=transparent" alt="git-pi03"></a>
+   <a href="https://github.com/bparedes21/pi-streamlit"><img width="278" src="https://github-readme-stats-6jdb6wcl7-gestionorganizacion17-gmailcom.vercel.app/api/pin/?username=bparedes21&repo=pi-streamlit&show_icons=true&theme=transparent" alt="pi-streamlit"></a>
+  <a href="https://github.com/bparedes21/git-pi03"><img width="278" src="https://github-readme-stats-6jdb6wcl7-gestionorganizacion17-gmailcom.vercel.app/api/pin/?username=bparedes21&repo=git-pi03&show_icons=true&theme=transparent" alt=""></a>
  </p>
  </div>
  </details open>
@@ -53,8 +53,8 @@
   <summary><h2>📅📚Mis proyectos: Predicción-Machine Learning</h2></summary>
   <div>
   <p align="left"> 
-   <a href="https://github.com/bparedes21/Datathon-pi"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=bparedes21&repo=Datathon-pi&show_icons=true&theme=transparent" alt="Datathon-pi"></a>
-  <a href="https://github.com/bparedes21/pi-02-dt"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=bparedes21&repo=pi-02-dt&show_icons=true&theme=transparent" alt="pi-02-dt"></a>
+   <a href="https://github.com/bparedes21/Datathon-pi"><img width="278" src="https://github-readme-stats-6jdb6wcl7-gestionorganizacion17-gmailcom.vercel.app/api/pin/?username=bparedes21&repo=Datathon-pi&show_icons=true&theme=transparent" alt="Datathon-pi"></a>
+  <a href="https://github.com/bparedes21/pi-02-dt"><img width="278" src="https://github-readme-stats-6jdb6wcl7-gestionorganizacion17-gmailcom.vercel.app/api/pin/?username=bparedes21&repo=pi-02-dt&show_icons=true&theme=transparent" alt="pi-02-dt"></a>
  </p>
  </div>
  </details open>
@@ -64,7 +64,7 @@
   <summary><h2>30 retos de OpenBootcamp</h2></summary>
   <div>
   <p align="left"> 
-   <a href=" https://github.com/bparedes21/Curso-de-30-Retos-"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=bparedes21&repo=Curso-de-30-Retos-&show_icons=true&theme=transparent" alt="Curso-de-30-Retos-"></a>
+   <a href=" https://github.com/bparedes21/Curso-de-30-Retos-"><img width="278" src="https://github-readme-stats-6jdb6wcl7-gestionorganizacion17-gmailcom.vercel.app/api/pin/?username=bparedes21&repo=Curso-de-30-Retos-&show_icons=true&theme=transparent" alt="Curso-de-30-Retos-"></a>
  </p>
  </div>
  </details open>
