@@ -61,7 +61,7 @@
  
    <h1></h1>
 <details open> 
-  <summary><h2>30 retos de OpenBootcamp</h2></summary>
+  <summary><h2>Ver simulador de hipoteca +  </h2></summary>
   <div>
   <p align="left"> 
    <a href="https://github.com/bparedes21/Curso-de-30-Retos-"><img width="278" src="https://github-readme-stats-6jdb6wcl7-gestionorganizacion17-gmailcom.vercel.app/api/pin/?username=bparedes21&repo=Curso-de-30-Retos-&show_icons=true&theme=transparent" alt="Curso-de-30-Retos-"></a>
