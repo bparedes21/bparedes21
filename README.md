@@ -1,13 +1,13 @@
  <p align="center">
  <a target="_blank">
-  <img align="center" height="250" width="250" alt="GIF" src="Avatar-Maker.png">
+  <img align="center" height="250" width="250" alt="GIF" src="/img/Avatar-Maker.png">
 </a>
 </p>
 <div>
 <p align="center"> 
  <h1 align="center">Hola!
   <a target="_blank">
-    <img src="Hi.gif" width="40px" />
+    <img src="/img/Hi.gif" width="40px" />
   </a>
  </h1>
 </p>
@@ -15,7 +15,7 @@
 <div>
 <p align="right">
  <a target="_blank">
-  <img align="right" height="100" width="200" alt="GIF" src="e426702edf874b181aced1e2fa5c6cde.gif">
+  <img align="right" height="100" width="200" alt="GIF" src="/img/e426702edf874b181aced1e2fa5c6cde.gif">
 </a>
 </p>
 
@@ -90,18 +90,18 @@
 **⌨️🖱️LANGUAGES AND 🔧TOOLS:**  
 </p>
 <p align="left">
-<code><img height="40" width="40" src="python.svg"></code>
-<code><img height="40" width="40" src="visualstudiocode.svg"></code>
-<code><img height="40" width="40" src="mysql.svg"></code>
-<code><img height="40" width="40" src="slack.svg"></code>
-<code><img height="40" width="40" src="microsoftsqlserver.svg"></code>
-<code><img height="40" width="40" src="streamlit.svg"></code>
-<code><img height="40" width="40" src="sqlite.svg"></code>
-<code><img height="40" width="40" src="scikitlearn.svg"></code>
-<code><img height="40" width="40" src="numpy.svg"></code>
-<code><img height="40" width="40" src="heroku.svg"></code>
-<code><img height="40" width="40" src="pandas.svg"></code>
-<code><img height="40" width="40" src="databricks.svg"></code>
+<code><img height="40" width="40" src="/img/python.svg"></code>
+<code><img height="40" width="40" src="/img/visualstudiocode.svg"></code>
+<code><img height="40" width="40" src="/img/mysql.svg"></code>
+<code><img height="40" width="40" src="/img/slack.svg"></code>
+<code><img height="40" width="40" src="/img/microsoftsqlserver.svg"></code>
+<code><img height="40" width="40" src="/img/streamlit.svg"></code>
+<code><img height="40" width="40" src="/img/sqlite.svg"></code>
+<code><img height="40" width="40" src="/img/scikitlearn.svg"></code>
+<code><img height="40" width="40" src="/img/numpy.svg"></code>
+<code><img height="40" width="40" src="/img/heroku.svg"></code>
+<code><img height="40" width="40" src="/img/pandas.svg"></code>
+<code><img height="40" width="40" src="/img/databricks.svg"></code>
 </p>
 <h1></h1>
 
