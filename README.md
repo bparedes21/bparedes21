@@ -61,11 +61,17 @@
  
    <h1></h1>
 <details open> 
-  <summary><h2>Ver simulador de hipoteca</h2></summary>
+  <summary><h2>Otros proyectos</h2></summary>
   <div>
   <p align="left"> 
    
    <a href="https://github.com/bparedes21/Simulador-de-Hipoteca"><img width="278" src="https://github-readme-stats-6jdb6wcl7-gestionorganizacion17-gmailcom.vercel.app/api/pin/?username=bparedes21&repo=Simulador-de-Hipoteca&show_icons=true&theme=transparent" alt="Simulador-de-Hipoteca"></a>
+ </p>
+ </div>
+   <div>
+  <p align="left"> 
+   
+   <a href="https://github.com/bparedes21/hogwards_streamlit"><img width="278" src="https://github-readme-stats-6jdb6wcl7-gestionorganizacion17-gmailcom.vercel.app/api/pin/?username=bparedes21&repo=hogwards_streamlit&show_icons=true&theme=transparent" alt="hogwards_streamlit"></a>
  </p>
  </div>
  </details open>
