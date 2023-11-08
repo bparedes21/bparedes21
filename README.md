@@ -64,7 +64,8 @@
   <summary><h2>Ver simulador de hipoteca</h2></summary>
   <div>
   <p align="left"> 
-   <a href="https://github.com/bparedes21/Curso-de-30-Retos-"><img width="278" src="https://github-readme-stats-6jdb6wcl7-gestionorganizacion17-gmailcom.vercel.app/api/pin/?username=bparedes21&repo=Curso-de-30-Retos-&show_icons=true&theme=transparent" alt="Curso-de-30-Retos-"></a>
+   
+   <a href="https://github.com/bparedes21/Simulador-de-Hipoteca"><img width="278" src="https://github-readme-stats-6jdb6wcl7-gestionorganizacion17-gmailcom.vercel.app/api/pin/?username=bparedes21&repo=Simulador-de-Hipotec&show_icons=true&theme=transparent" alt="Simulador-de-Hipotec"></a>
  </p>
  </div>
  </details open>
