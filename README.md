@@ -31,7 +31,7 @@
   <div>
   <p align="left"> 
 
-   <a href="https://github.com/bparedes21/PI01_DT_ENGINEERING"><img width="278" src= "https://github-readme-stats-6jdb6wcl7-gestionorganizacion17-gmailcom.vercel.app/api/pin/?username=bparedes21&repo=PI01_DT_ENGINEERING&show_icons=true&theme=transparent" alt="PI01_DT_ENGINEERING"></a>
+   <a href="https://github.com/bparedes21/Supermarkets-ETL-DB"><img width="278" src= "https://github-readme-stats-6jdb6wcl7-gestionorganizacion17-gmailcom.vercel.app/api/pin/?username=bparedes21&repo=Supermarkets-ETL-DB&show_icons=true&theme=transparent" alt="Supermarkets-ETL-DB"></a>
   <a href="https://github.com/bparedes21/RacesResults-ETL-DB-Querys"><img width="278" src=  "https://github-readme-stats-6jdb6wcl7-gestionorganizacion17-gmailcom.vercel.app/api/pin/?username=bparedes21&repo=RacesResults-ETL-DB-Querys&show_icons=true&theme=transparent" alt="RacesResults-ETL-DB-Querys"></a>
  </p>
  </div>
