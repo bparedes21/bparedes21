@@ -31,8 +31,8 @@
   <div>
   <p align="left"> 
 
-   <a href="https://github.com/bparedes21/Supermarkets-ETL-DB"><img width="278" src= "https://github-readme-stats-6jdb6wcl7-gestionorganizacion17-gmailcom.vercel.app/api/pin/?username=bparedes21&repo=Supermarkets-ETL-DB&show_icons=true&theme=transparent" alt="Supermarkets-ETL-DB"></a>
-  <a href="https://github.com/bparedes21/RacesResults-ETL-DB-Querys"><img width="278" src=  "https://github-readme-stats-6jdb6wcl7-gestionorganizacion17-gmailcom.vercel.app/api/pin/?username=bparedes21&repo=RacesResults-ETL-DB-Querys&show_icons=true&theme=transparent" alt="RacesResults-ETL-DB-Querys"></a>
+   <a href="https://github.com/bparedes21/Supermarkets-ETL-DB-Queries"><img width="278" src= "https://github-readme-stats-6jdb6wcl7-gestionorganizacion17-gmailcom.vercel.app/api/pin/?username=bparedes21&repo=Supermarkets-ETL-DB-Queries&show_icons=true&theme=transparent" alt="Supermarkets-ETL-DB-Queries"></a>
+  <a href="https://github.com/bparedes21/RacesResults-ETL-DB-Queries"><img width="278" src=  "https://github-readme-stats-6jdb6wcl7-gestionorganizacion17-gmailcom.vercel.app/api/pin/?username=bparedes21&repo=RacesResults-ETL-DB-Queries&show_icons=true&theme=transparent" alt="RacesResults-ETL-DB-Queries"></a>
  </p>
  </div>
 </details open> 
