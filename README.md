@@ -43,7 +43,7 @@
   <div>
   <p align="left"> 
    <a href="https://github.com/bparedes21/pi-streamlit"><img width="278" src="https://github-readme-stats-6jdb6wcl7-gestionorganizacion17-gmailcom.vercel.app/api/pin/?username=bparedes21&repo=pi-streamlit&show_icons=true&theme=transparent" alt="Streamlit"></a>
-   <a href="https://github.com/bparedes21/Proyecto-analisis-Dolar-BCRA_API"><img width="278" src="https://github-readme-stats-6jdb6wcl7-gestionorganizacion17-gmailcom.vercel.app/api/pin/?username=bparedes21&repo=Proyecto-analisis-Dolar-BCRA_API&show_icons=true&theme=transparent" alt="Proyecto-analisis-Dolar-BCRA_API"></a>
+   <a href="https://github.com/bparedes21/Proyecto-analisis-Dolar-BCRA_API"><img width="285" src="https://github-readme-stats-6jdb6wcl7-gestionorganizacion17-gmailcom.vercel.app/api/pin/?username=bparedes21&repo=Proyecto-analisis-Dolar-BCRA_API&show_icons=true&theme=transparent" alt="Proyecto-analisis-Dolar-BCRA_API"></a>
   <a href="https://github.com/bparedes21/Proyecto_analisis_accidentes"><img width="278" src="https://github-readme-stats-6jdb6wcl7-gestionorganizacion17-gmailcom.vercel.app/api/pin/?username=bparedes21&repo=Proyecto_analisis_accidentes&show_icons=true&theme=transparent" alt="Data analyst"></a>
  </p>
  </div>
