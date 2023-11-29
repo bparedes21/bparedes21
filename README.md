@@ -24,6 +24,18 @@
 </p>
 <p>
 </p>
+<h1></h1>
+<details open> 
+  <summary><h2> :globe_with_meridians: Proyecto grupal: ETL-ANALISIS-PREDICCION</h2></summary>
+  <div>
+  <p align="left"> 
+
+   <a href="https://github.com/bparedes21/Proyecto-Grupal"><img width="278" src= "https://github-readme-stats-6jdb6wcl7-gestionorganizacion17-gmailcom.vercel.app/api/pin/?username=bparedes21&repo=Proyecto-Grupal&show_icons=true&theme=transparent" alt="Houses Market"></a>
+
+ </p>
+ </div>
+</details open> 
+
  
 <h1></h1>
 <details open> 
