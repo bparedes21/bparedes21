@@ -5,6 +5,25 @@
 </p>
 <div>
 <p align="center"> 
+ 
+# Bienvenido a mi Portafolio 🌐
+
+## Acerca de Mí
+
+¡Hola! Soy Alexis, un apasionado me desempeño como analista de Datos y Ingeniero de Datos tengo 33 años, originario de Buenos Aires, Argentina, y actualmente me encuentro en búsqueda laboral activa. Siempre estoy en la búsqueda de nuevas tecnologías para capacitarme y mantenerme actualizado en el fascinante mundo de los datos.
+
+## Mi Perspectiva sobre los Datos
+
+Desde mi perspectiva, los datos están en todas partes. Los veo en la cuenta bancaria, en el recuento diario de pasos e incluso en las pequeñas decisiones diarias como preparar o pedir comida. Constantemente estoy consciente de cómo utilizamos datos en nuestra vida cotidiana.
+
+La primera herramienta que dominé fue Excel, y fue un punto de inflexión en mi percepción de los datos. Desde entonces, he utilizado Excel para almacenar y analizar datos, aportando información valiosa en el momento oportuno. Comencé a ver datos que otros no veían y a reunir conjuntos de datos que otros consideraban imposibles. Este impulso me motiva a continuar perfeccionando mis habilidades y conocimientos.
+
+## Enfoque en los Negocios y Datos
+
+Mi interés principal es aplicar mis conocimientos a los negocios, una de las áreas más valiosas en la actualidad. Creo que los datos tienen un impacto significativo en nuestra vida diaria, tanto a nivel personal como organizacional.
+
+👩‍🚀 Desarrollé diversos proyectos utilizando tecnologías como Python, Power BI, Hadoop, Spark. Estas herramientas me permiten limpiar, analizar y visualizar grandes cantidades de datos de manera eficiente, crear modelos de machine learning y evaluar su rendimiento.
+
  <h1 align="center">Hola!
   <a target="_blank">
     <img src="/img/Hi.gif" width="40px" />
