@@ -67,7 +67,7 @@
   <div>
   <p align="left"> 
    <a href="https://github.com/bparedes21/Datathon-pi"><img width="278" src="https://github-readme-stats-6jdb6wcl7-gestionorganizacion17-gmailcom.vercel.app/api/pin/?username=bparedes21&repo=Datathon-pi&show_icons=true&theme=transparent" alt="Datathon-pi"></a>
-  <a href="https://github.com/bparedes21/Clasificación _en_el_Mercado_Inmobiliario "><img width="278" src="https://github-readme-stats-6jdb6wcl7-gestionorganizacion17-gmailcom.vercel.app/api/pin/?username=bparedes21&repo=Clasificación _en_el_Mercado_Inmobiliario &show_icons=true&theme=transparent" alt="Clasificación _en_el_Mercado_Inmobiliario "></a>
+  <a href="https://github.com/bparedes21/Clasificacion _en_el_Mercado_Inmobiliario "><img width="278" src="https://github-readme-stats-6jdb6wcl7-gestionorganizacion17-gmailcom.vercel.app/api/pin/?username=bparedes21&repo=Clasificacion _en_el_Mercado_Inmobiliario &show_icons=true&theme=transparent" alt="Clasificacion _en_el_Mercado_Inmobiliario "></a>
  </p>
  </div>
  </details open>
