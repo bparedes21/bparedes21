@@ -58,7 +58,7 @@ Mi interés principal es aplicar mis conocimientos a los negocios, una de las á
  
 <h1></h1>
 <details open> 
-  <summary><h2>👔Mis proyectos: Data engineer</h2></summary>
+  <summary><h2>👔Mis proyectos: Ingenieria de Datos</h2></summary>
   <div>
   <p align="left"> 
 
@@ -70,7 +70,7 @@ Mi interés principal es aplicar mis conocimientos a los negocios, una de las á
 
  <h1></h1>
 <details open> 
-  <summary><h2>📊Mis proyectos: Data analyst</h2></summary>
+  <summary><h2>📊Mis proyectos: Analisis de Datos</h2></summary>
   <div>
   <p align="left"> 
    <a href="https://github.com/bparedes21/pi-streamlit"><img width="278" src="https://github-readme-stats-6jdb6wcl7-gestionorganizacion17-gmailcom.vercel.app/api/pin/?username=bparedes21&repo=pi-streamlit&show_icons=true&theme=transparent" alt="Streamlit"></a>
