@@ -109,7 +109,7 @@ Mi interés principal es aplicar mis conocimientos a los negocios, una de las á
   <summary><h2>📉Stats Card</h2></summary>
 
 <p align="left"> 
-   <a href=""><img width="278" src="https://github-readme-stats-6jdb6wcl7-gestionorganizacion17-gmailcom.vercel.app/api/top-langs?username=bparedes21&langs_count=10" alt=""></a>
+   <a href=""><img width="278" src="https://github-readme-stats-6jdb6wcl7-gestionorganizacion17-gmailcom.vercel.app/api/top-langs/?username=bparedes21&layout=donut" alt=""></a>
   <a href=""><img width="278" src="https://github-readme-stats-6jdb6wcl7-gestionorganizacion17-gmailcom.vercel.app/api?username=bparedes21&show_icons=true&theme=transparent" alt=""></a>
  </p>
  
