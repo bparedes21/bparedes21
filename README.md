@@ -69,18 +69,25 @@
     </div>
   </details open>
 
-  <h1></h1>
 
   <details open> 
     <summary><h2>Otros proyectos</h2></summary>
     <div>
       <p align="left"> 
-        <a href="https://github.com/bparedes21/Simulador-de-Hipoteca"><img width="278" src="https://github-readme-stats-6jdb6wcl7-gestionorganizacion17-gmailcom.vercel.app/api/pin/?username=bparedes21&repo=Simulador-de-Hipoteca&show_icons=true&theme=transparent" alt="Simulador-de-Hipoteca"></a>
-        <a href="https://github.com/bparedes21/hogwards_streamlit"><img width="278" src="https://github-readme-stats-6jdb6wcl7-gestionorganizacion17-gmailcom.vercel.app/api/pin/?username=bparedes21&repo=hogwards_streamlit&show_icons=true&theme=transparent" alt="hogwards_streamlit"></a>
-      </p>
-    </div>
-  </details open>
+  
+<a href="https://github.com/bparedes21/Simulador-de-Hipoteca">
+  <img height="50" width="295" src="https://img.shields.io/badge/Simulador%20de%20Hipoteca-Streamlit-blue?style=flat&logo=homeassistant">
+</a>
 
+<a href="https://github.com/bparedes21/hogwards_streamlit">
+  <img height="50" width="278" src="https://img.shields.io/badge/Casa%20de%20Hogwarts-Streamlit-yellow?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIj4KICA8Y2lyY2xlIGN4PSI0MCIgY3k9IjQwIiByPSI0MCIgc3R5bGU9ImZpbGw6cmVkOyIgLz4KPC9zdmc=)](https://github.com/bparedes21/hogwards_streamlit">
+</a>
+
+<a href="https://replit.com/@BrianParedes/Bot-telegram#main.py">
+  <img height="50" width="278" src="https://img.shields.io/badge/Replit-BotTelegram-blueviolet?style=flat&logo=replit">
+</a>
+  </details open>
+  
   <h1></h1>
 
 <details open> 
@@ -88,7 +95,10 @@
 
   <p align="left"> 
     <a href="https://github.com/bparedes21?tab=repositories"><img width="400" src="https://github-readme-stats-6jdb6wcl7-gestionorganizacion17-gmailcom.vercel.app/api/top-langs/?username=bparedes21&layout=compact" alt="Top Languages"></a>
+    
     <a href="https://github.com/bparedes21?tab=repositories"><img width="400" src="https://github-readme-stats-6jdb6wcl7-gestionorganizacion17-gmailcom.vercel.app/api?username=bparedes21&show_icons=true&theme=dark" alt="GitHub Stats"></a>
+
+    
   </p>
 </details>
 
