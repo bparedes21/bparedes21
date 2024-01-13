@@ -80,7 +80,7 @@
 </a>
 
 <a href="https://github.com/bparedes21/hogwards_streamlit">
-  <img height="50" width="278" src="https://acortar.link/1sCQXO">
+  <img height="50" width="278" src="https://acortar.link/hbIFX5">
 </a>
 
 <a href="https://replit.com/@BrianParedes/Bot-telegram#main.py">
