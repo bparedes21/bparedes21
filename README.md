@@ -11,52 +11,21 @@
 </div>
 
 <div>
-  <p align="right">
-    <a target="_blank">
-      <img align="right" height="100" width="200" alt="GIF" src="/img/e426702edf874b181aced1e2fa5c6cde.gif">
-    </a>
-  </p>
-
   <p align="left">
     <a href="https://www.linkedin.com/in/brian-alexis-paredes-/"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&duration=2000&pause=0&center=true&multiline=true&width=600&height=100&lines=Me+desempe%C3%B1o+como:+;Data+analyst;Data+engineer" alt="linkedin" /></a>
   </p>
-
-  <h1></h1>
-
-  <details open> 
-    <summary><h2> :globe_with_meridians: Proyecto grupal: ETL-ANALISIS-PREDICCION</h2></summary>
-    <div>
-      <p align="left"> 
-        <a href="https://github.com/bparedes21/Proyecto-Grupal"><img width="278" src= "https://github-readme-stats-6jdb6wcl7-gestionorganizacion17-gmailcom.vercel.app/api/pin/?username=bparedes21&repo=Proyecto-Grupal&show_icons=true&theme=transparent" alt="Houses Market"></a>
-      </p>
-    </div>
-  </details open> 
-
-  <h1></h1>
-
-  <details open> 
-    <summary><h2>👔Mis proyectos: Ingenieria de Datos</h2></summary>
-    <div>
-      <p align="left"> 
-        <a href="https://github.com/bparedes21/Supermarkets-ETL-DB-Queries"><img width="278" src= "https://github-readme-stats-6jdb6wcl7-gestionorganizacion17-gmailcom.vercel.app/api/pin/?username=bparedes21&repo=Supermarkets-ETL-DB-Queries&show_icons=true&theme=transparent" alt="Supermarkets-ETL-DB-Queries"></a>
-        <a href="https://github.com/bparedes21/RacesResults-ETL-DB-Queries"><img width="278" src=  "https://github-readme-stats-6jdb6wcl7-gestionorganizacion17-gmailcom.vercel.app/api/pin/?username=bparedes21&repo=RacesResults-ETL-DB-Queries&show_icons=true&theme=transparent" alt="RacesResults-ETL-DB-Queries"></a>
-      </p>
-    </div>
-  </details open> 
-
-  <h1></h1>
 
   <details open> 
     <summary><h2>📊Mis proyectos: Analisis de Datos</h2></summary>
     <div>
       <p align="left"> 
-          <a href="https://github.com/bparedes21/Molinetes-Subtes-BA"><img width="278" src="https://github-readme-stats-6jdb6wcl7-gestionorganizacion17-gmailcom.vercel.app/api/pin/?username=bparedes21&repo=Molinetes-Subtes-BA&show_icons=true&theme=transparent" alt="Data analyst"></a>
+        <a href="https://github.com/bparedes21/Molinetes-Subtes-BA"><img width="278" src="https://github-readme-stats-6jdb6wcl7-gestionorganizacion17-gmailcom.vercel.app/api/pin/?username=bparedes21&repo=Molinetes-Subtes-BA&show_icons=true&theme=transparent" alt="Data analyst"></a>
         <a href="https://github.com/bparedes21/Proyecto-analisis-Dolar-BCRA_API"><img width="285" src="https://github-readme-stats-6jdb6wcl7-gestionorganizacion17-gmailcom.vercel.app/api/pin/?username=bparedes21&repo=Proyecto-analisis-Dolar-BCRA_API&show_icons=true&theme=transparent" alt="Proyecto-analisis-Dolar-BCRA_API"></a>
         <a href="https://github.com/bparedes21/Proyecto_analisis_accidentes"><img width="278" src="https://github-readme-stats-6jdb6wcl7-gestionorganizacion17-gmailcom.vercel.app/api/pin/?username=bparedes21&repo=Proyecto_analisis_accidentes&show_icons=true&theme=transparent" alt="Data analyst"></a>
          <a href="https://github.com/bparedes21/pi-streamlit"><img width="278" src="https://github-readme-stats-6jdb6wcl7-gestionorganizacion17-gmailcom.vercel.app/api/pin/?username=bparedes21&repo=pi-streamlit&show_icons=true&theme=transparent" alt="Streamlit"></a>
       </p>
     </div>
-  </details open>
+  </details> 
 
   <h1></h1>
 
@@ -68,44 +37,64 @@
         <a href="https://github.com/bparedes21/Clasificacion_en_el_Mercado_Inmobiliario"><img width="275" src="https://github-readme-stats-6jdb6wcl7-gestionorganizacion17-gmailcom.vercel.app/api/pin/?username=bparedes21&repo=Clasificacion_en_el_Mercado_Inmobiliario&show_icons=true&theme=transparent" alt="Clasificacion_en_el_Mercado_Inmobiliario"></a>
       </p>
     </div>
-  </details open>
+  </details>
 
+  <h1></h1>
+
+  <details open> 
+    <summary><h2>👔Mis proyectos: Ingenieria de Datos</h2></summary>
+    <div>
+      <p align="left"> 
+        <a href="https://github.com/bparedes21/Supermarkets-ETL-DB-Queries"><img width="278" src= "https://github-readme-stats-6jdb6wcl7-gestionorganizacion17-gmailcom.vercel.app/api/pin/?username=bparedes21&repo=Supermarkets-ETL-DB-Queries&show_icons=true&theme=transparent" alt="Supermarkets-ETL-DB-Queries"></a>
+        <a href="https://github.com/bparedes21/RacesResults-ETL-DB-Queries"><img width="278" src=  "https://github-readme-stats-6jdb6wcl7-gestionorganizacion17-gmailcom.vercel.app/api/pin/?username=bparedes21&repo=RacesResults-ETL-DB-Queries&show_icons=true&theme=transparent" alt="RacesResults-ETL-DB-Queries"></a>
+      </p>
+    </div>
+  </details> 
+
+  <h1></h1>
+
+  <details open> 
+    <summary><h2> :globe_with_meridians: Proyecto grupal: ETL-ANALISIS-PREDICCION</h2></summary>
+    <div>
+      <p align="left"> 
+        <a href="https://github.com/bparedes21/Proyecto-Grupal"><img width="278" src= "https://github-readme-stats-6jdb6wcl7-gestionorganizacion17-gmailcom.vercel.app/api/pin/?username=bparedes21&repo=Proyecto-Grupal&show_icons=true&theme=transparent" alt="Houses Market"></a>
+      </p>
+    </div>
+  </details> 
+
+  <h1></h1>
+
+  <details open> 
+    <summary><h2>📗 Excel y VBA📘 </h2></summary>
+    <div>
+      <p align="left"> 
+        <a href="https://github.com/bparedes21/Calendario-Agenda-Dinamico-en-Excel"><img width="278" src= "https://github-readme-stats-6jdb6wcl7-gestionorganizacion17-gmailcom.vercel.app/api/pin/?username=bparedes21&repo=Calendario-Agenda-Dinamico-en-Excel&show_icons=true&theme=transparent" alt="Excel-VBA"></a>
+      </p>
+    </div>
+  </details>
+
+  <h1></h1>
 
   <details open> 
     <summary><h2>Otros proyectos</h2></summary>
     <div>
       <p align="left"> 
-  
-<a href="https://github.com/bparedes21/Simulador-de-Hipoteca">
-  <img height="50" width="295" src="https://acortar.link/b7957f">
-</a>
+        <a href="https://github.com/bparedes21/Simulador-de-Hipoteca"><img height="50" width="295" src="https://acortar.link/b7957f"></a>
+        <a href="https://github.com/bparedes21/hogwards_streamlit"><img height="50" width="278" src="https://acortar.link/hbIFX5"></a>
+        <a href="https://replit.com/@BrianParedes/Bot-telegram#main.py"><img height="50" width="278" src="https://img.shields.io/badge/Replit-BotTelegram-blueviolet?style=flat&logo=replit"></a>
+      </p>
+    </div>
+  </details>
 
-<a href="https://github.com/bparedes21/hogwards_streamlit">
-  <img height="50" width="278" src="https://acortar.link/hbIFX5">
-</a>
-
-<a href="https://replit.com/@BrianParedes/Bot-telegram#main.py">
-  <img height="50" width="278" src="https://img.shields.io/badge/Replit-BotTelegram-blueviolet?style=flat&logo=replit">
-</a>
-  </details open>
-  
   <h1></h1>
 
 <details open> 
   <summary><h2>📉 Stats Card</h2></summary>
-
   <p align="left"> 
     <a href="https://github.com/bparedes21?tab=repositories"><img width="400" src="https://github-readme-stats-6jdb6wcl7-gestionorganizacion17-gmailcom.vercel.app/api/top-langs/?username=bparedes21&layout=compact" alt="Top Languages"></a>
-    
-<a href="https://github.com/bparedes21?tab=repositories">
-  <img width="400" src="https://github-readme-stats-6jdb6wcl7-gestionorganizacion17-gmailcom.vercel.app/api?username=bparedes21&show_icons=true&theme=dark" alt="GitHub Stats">
-</a>
-
-
-    
+    <a href="https://github.com/bparedes21?tab=repositories"><img width="400" src="https://github-readme-stats-6jdb6wcl7-gestionorganizacion17-gmailcom.vercel.app/api?username=bparedes21&show_icons=true&theme=dark" alt="GitHub Stats"></a>
   </p>
 </details>
-
 
   <h1></h1>
 
